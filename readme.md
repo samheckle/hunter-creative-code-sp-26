@@ -1,8 +1,8 @@
 # MDEP 234: Creative Code
 
-Sam Heckle
-Spring 2025
-MDEP 234
+Sam Heckle  
+Spring 2026  
+MDEP 234  
 Mon 2:30pm - 5:15pm
 
 ---
@@ -138,10 +138,12 @@ Please bookmark these links:
 1. sign up for a free account on the [p5 editor](https://editor.p5js.org/)
 2. [p5 reference](https://p5js.org/reference/)
 
+As the class is on zoom, it is suggested to have access to a second monitor to be able to follow along more easily with the class demos. 
+
 **Recommended Materials**
 I highly encourage searching for extra resources online, as long as you cite your sources in your documentation. Some places I encourage you to look at:
 
-1. [The Nature of Code](https:// https://natureofcode.com/book/): a free online book written by Dan Shiffman exploring different physics applications in p5.js
+1. [The Nature of Code](https://natureofcode.com/book/): a free online book written by Dan Shiffman exploring different physics applications in p5.js
 2. [The Coding Train](https://thecodingtrain.com/): A free resource to learn p5.js, created by Dan Shiffman. I will link these videos weekly so you can get a refresher on the materials.
 3. [Patt Vira](https://www.youtube.com/@pattvira)
 4. [xin xin](https://youtube.com/playlist?list=PLT233rQkMw761t_nQ_6GkejNT1g3Ew4PU&si=ZiD58xLrUTDav748)
