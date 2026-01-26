@@ -110,10 +110,6 @@ Make an account: <https://editor.p5js.org/>
 
 ### Definitions: Coding Glossary vs. p5 Glossary
 
-| coding glossary | p5 glossary                                 |
-| --------------- | ------------------------------------------- |
-|                 | terms that are specific to p5 and our class |
-
 #### Coding Glossary
 
 These terms that can be used _universally_ when talking about code, so if you know others who are familiar with coding likely they will know what you mean when using these terms. There will always be terms that will be distinguished between general terms vs. p5 specific terms.
@@ -175,7 +171,6 @@ background(255);
 The p5 glossary are terms that are specific to the p5.js library and our class.
 
 <table>
-<thead> p5.js glossary </thead>
 <tbody>
 <tr><td>sketch</td><td>
 
@@ -259,7 +254,7 @@ Challenge:
 
 ## Demos
 
-- 
+-
 
 ## Review Videos
 
