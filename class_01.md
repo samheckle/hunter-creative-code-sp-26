@@ -254,7 +254,7 @@ Challenge:
 
 ## Demos
 
--
+- [class 1 demo](https://editor.p5js.org/samheckle/sketches/R4jaE5s9K)
 
 ## Review Videos
 
