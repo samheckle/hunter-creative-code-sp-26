@@ -4,6 +4,7 @@ Sam Heckle
 Spring 2026  
 MDEP 234  
 Mon 2:30pm - 5:15pm
+`samantha.heckle (at) hunter.cuny.edu`
 
 ---
 
