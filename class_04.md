@@ -9,9 +9,14 @@
 
 ---
 
+## Homework Share
+
+In breakout rooms, share your projects and try to answer any questions you might have had issues with! We will share in groups for ~10-15 minutes, then come together as a class and look through everyone's work.
+
 ## Repetition and Functions
 
 ### Coding Glossary: Review
+
 <table>
 <tbody>
 <tr><td>function</td><td>
@@ -35,40 +40,38 @@ using the keyword `let`, names and creates a variable
 
 Declarations can also be used for functions, using the keyword `function`
 
-Functions need to be written ***outside*** the `setup()` and the `draw()`
+Functions need to be written **_outside_** the `setup()` and the `draw()`
 
 We have already seen an example of this:
-```js
-function setup(){
-    createCanvas(400,400)
-}
-function draw(){
 
+```js
+function setup() {
+  createCanvas(400, 400);
 }
+function draw() {}
 ```
 
 `setup()` and `draw()` are functions that use the function keyword. We have also seen:
 
 ```js
-function mousePressed(){
-    // do something when the mouse is clicked
+function mousePressed() {
+  // do something when the mouse is clicked
 }
 ```
 
 ### Custom Functions
 
-So far, we have used functions that have only been defined by p5. Even though we are declaring and using `setup()`, `draw()`, and `mousePressed()`, they aren't something we are specifically defining. So, we can [create our own functions](https://p5js.org/reference/p5/function/) too. These still need to be written ***after*** the `draw()`
+So far, we have used functions that have only been defined by p5. Even though we are declaring and using `setup()`, `draw()`, and `mousePressed()`, they aren't something we are specifically defining. So, we can [create our own functions](https://p5js.org/reference/p5/function/) too. These still need to be written **_after_** the `draw()`
 
 ```js
-function myCoolNewFunction(){
-
-}
+function myCoolNewFunction() {}
 ```
 
 We can also make custom parameters:
+
 ```js
-function myCoolNewFunction(myCoolParameter){
-    print(myCoolParameter)
+function myCoolNewFunction(myCoolParameter) {
+  print(myCoolParameter);
 }
 ```
 
@@ -97,8 +100,8 @@ a custom function accepting inputs in their headers, which creates a local place
 #### Why make custom functions?
 
 1. Code can be duplicated more easily.
-2. It makes our code more readable and organized, just like variables. 
-    * if you notice you are doing the same section of code multiple times, it can probably be a function!
+2. It makes our code more readable and organized, just like variables.
+   - if you notice you are doing the same section of code multiple times, it can probably be a function!
 
 ![functions vs var](https://github.com/samheckle/code-toolkit-fa-25/raw/main/images/week_04/functionvar.png)
 
