@@ -11,7 +11,7 @@
 
 ## Review: Questions on *anything* so far?
 
-Add to [this doc]([https://cryptpad.fr/doc/#/2/doc/edit/ei0MZ-3iTZKj9t8aKv1n70sf/](https://cryptpad.fr/doc/#/2/doc/view/GR52yjmdqsIORMLveeYsc18PCZt1+7oqvvGBCxA1+Mo/))
+Add to [this doc](https://cryptpad.fr/doc/#/2/doc/view/GR52yjmdqsIORMLveeYsc18PCZt1+7oqvvGBCxA1+Mo/)
 
 ## Data Structures Part 1: Arrays
 
