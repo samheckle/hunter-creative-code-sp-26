@@ -11,7 +11,7 @@
 
 ## Reading Discussion #2
 
-Take notes in [this document](https://cryptpad.fr/doc/#/2/doc/edit/fKJ5ASbTip2fUmAphL3hfa3c/)
+Take notes in [this document](https://cryptpad.fr/doc/#/2/doc/view/AqZw5EHtyN42hNcfwsCuCGyZZHvHu-teW0NuyVzcCaw/)
 
 - How are you currently using AI? Do you use AI in your artistic processes now?
 - What are the different approaches you might take in using AI in the future (if you will)?
@@ -109,51 +109,13 @@ To use sound in p5, we use the [p5 sound library](https://p5js.org/reference/p5.
 - https://youtu.be/HI1raqxrUdk?si=j01yIjgDCCW91PpI
   - cassie's [sketch](https://editor.p5js.org/cassie/sketches/YZHxZ9ffl) recreating it
 
-## Tutorial: Generated Sound + Microphone
-
-### Generating Sound
-
-Each note that exists from instruments is related to a specific frequency. For example, a [piano](https://en.wikipedia.org/wiki/Piano_key_frequencies) can be broken down by [this chart](https://upload.wikimedia.org/wikipedia/commons/a/ad/Piano_key_frequencies.png)
-
-What this means for us is that we can generate tones by using the basic frequency (in the hz units) and electronically mimic the sound waves coming from each place. 
-
-![sound waves](https://www.thedawstudio.com/wp-content/uploads/2016/08/Types_of_Soundwaves.jpg)
-
-We can mathematically create a scale by seeing what is the ratio between the note, the hz, and the ratio. 
-
-| note | hz | ratio | 
-|---|---|---|
-| C | 262 | 1 | 
-| D | 294 | 1.122 | 
-| E | 311 | 1.189 |
-| F | 349 | 1.335 | 
-| G | 392 | 1.498 | 
-| A | 415 | 1.587 | 
-| B | 466 | 1.782 |
-
-#### Modifying Sound Files based on Freq (HZ)
-
-The `.rate()` method that exists on sound files allows us to use this ratio to create a new tone!
-
-#### Using Oscillators
-
-We can customize sound files using the frequency, but we can also create new tones using the oscillator class in p5.sound.
-
-```js
-// p5.Oscillator takes 2 parameters:
-// 1. frequency (note) to be played
-// 2. type of waveform (sine, triangle, square, sawtooth)
-let osc = new p5.Oscillator(261, "triangle")
-```
-
-The frequency is determined by the note (see above table), and the waveform is the literal sound wave that moves through the air. We are mimicking this electronically. 
+## Tutorial: Sound Files and Microphone
 
 ### Microphone Input
 
 We can create microphone input using the `new p5.AudioIn()`. This uses the class syntax of `new` to create an instance of the AudioIn class, and we can assign that to a variable. 
 
 ***Note: Some browsers hate this, so if you use Firefox or not Chrome, you might need to change the version of your p5 to 0.9.0 in `index.html`***
-
 
 
 ```js
