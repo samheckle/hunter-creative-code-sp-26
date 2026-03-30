@@ -62,7 +62,7 @@ If your group is gone, consider other things to work on:
 
 - think about improving your proposal via feedback received
 - begin technical implementation of your project
-- research related artistic works
+- research related artistic works (take a look through [10k drum machines](https://10kdrummachines.com/)! there might be some interesting and relevant projects.)
 - watch coding train videos
 - plan out a visit to a gallery for the extra credit
 - do the reading assignment
