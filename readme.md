@@ -154,18 +154,18 @@ I highly encourage searching for extra resources online, as long as you cite you
 
 ---
 
-| Schedule |                                                                             |
-| -------- | --------------------------------------------------------------------------- |
-| 1/26     | Syllabus Overview, Class Expectations, Introductions                        |
-| 2/2      | Data Storage with Variables                                                 |
-| 2/9      | Interaction with Conditionals                                               |
+| Schedule |                                                                          | Class Notes
+| -------- | --------------------------------------------------------------------------- | --- |
+| 1/26     | Syllabus Overview, Class Expectations, Introductions                        | [Drawing Shapes in p5.js](/class_01.md)
+| 2/2      | Data Storage with Variables                                                 | [Variables](/class_02.md)
+| 2/9      | Interaction with Conditionals                                               | [Conditionals](/class_03.md)
 | 2/16     | **_No class, college closed_**                                              |
-| 2/23     | Code Organization pt. 1 (Functions)                                         |
-| 3/2      | Repetition (Loops)                                                          |
-| 3/9      | Code Organization pt. 2 (Arrays)                                            |
+| 2/23     | Code Organization pt. 1 (Functions)                                         | [Functions](/class_04.md)
+| 3/2      | Repetition (Loops)                                                          | [Loops](/class_05.md)
+| 3/9      | Code Organization pt. 2 (Arrays)                                            | [Arrays](/class_06.md)
 | 3/16     | Midterm Project Presentations                                               |
-| 3/23     | Sound                                                                       |
-| 3/30     | Code Organization pt. 3 (Objects & Classes)                                 |
+| 3/23     | Sound                                                                       | [Objects and Sound](/class_08.md)
+| 3/30     | Code Organization pt. 3 (Objects & Classes)                                 | [Generative Sound](/class_09.md)
 | 4/6      | **_No class, spring break_**                                                |
 | 4/13     | The Greater Web (HTML/CSS, DOM)                                             |
 | 4/20     | Manipulating Text                                                           |
