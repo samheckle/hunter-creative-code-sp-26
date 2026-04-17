@@ -124,6 +124,10 @@ This enables us to programatically add items to the DOM using p5.js: https://p5j
 
 ## Demos 
 
+- p5 editor DOM: https://editor.p5js.org/samheckle/sketches/SmqOhPOU1
+- same code uploaded to github: https://github.com/samheckle/hunter-cc-sp-26-class11
+- same code live website on github pages: https://samheckle.github.io/hunter-cc-sp-26-class11/
+
 ### Resources / Videos
 
 - Allison Parrish [Browser Controls](https://creative-coding.decontextualize.com/browser-controls/)
