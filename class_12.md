@@ -18,8 +18,6 @@
   - The workshop title is: Identifying Creative Focus: Astonishment, Discernment & Integration into Practice
   - Identifying specifically what quickens your pulse as an artist can be murky territory. In this workshop, we will help you discern your area of focus and where/how you can apply your technical skills strategically to support your conceptual goals.
 
-Instead of meeting during our regular session, I will be offering extra credit for students who attend the talk/workshop _in person_. For those not attending in person, we will do 1:1 sessions from 5-6pm and move our reading discussion to next week. Please send me an email if you are planning on attending!
-
 5/1: F(r)ictions: Creative Work in an Age of AI
 
 - https://www.aicreativelabor.com/project/frictions | RSVP: https://frictionscreativeworkinanageof.splashthat.com/
