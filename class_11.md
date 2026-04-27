@@ -3,8 +3,9 @@
 ## Agenda
 
 1. Project #4 Share
-2. Tutorial: External Libraries + Final Project
-3. Demos and References
+2. Final Project
+3. Tutorial: Webcam
+4. Demos and References
 
 ---
 
@@ -89,16 +90,6 @@ webcam.hide();
 //... in the draw
 // display webcam data to the draw
 image(webcam, 0, 0);
-```
-
-### Example Library: Using ml5
-
-https://ml5js.org/ is a library built on top of p5 to use machine learning. They have a few different types of tools that you are welcome to use, but today's demo will focus on BodyPose https://docs.ml5js.org/#/reference/bodypose
-
-The first thing we always do when using an external library is open up our `index.html` and import the library code.
-
-```html
-<script src="https://unpkg.com/ml5@1/dist/ml5.js"></script>
 ```
 
 ## Demos and Resources
