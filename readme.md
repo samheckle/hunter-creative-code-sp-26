@@ -170,8 +170,8 @@ I highly encourage searching for extra resources online, as long as you cite you
 | 4/13     | The Greater Web (HTML/CSS, DOM)                                             |
 | 4/20     | Manipulating Text                                                           |
 | 4/27     | External Libraries (Video, BlazePose)                                       |
-| 5/4      | Final Project 1:1s                                                          |
-| 5/11     | Final Project Check-ins & Group Feedback                                    |
+| 5/4      | Final Project Check-ins & Group Feedback                                                           |
+| 5/11     | Final Project 1:1s                                   |
 | 5/18     | Final Project Presentations **last day for resubmissions and extra credit** |
 
 ---
